@@ -1,0 +1,1 @@
+This folder contains submission for Pattern based Questions & Challenges
